@@ -4,14 +4,15 @@
 
 ## Over
 * **Naam:** `Lizzy Pham`
-* **Klas:** `vid-1/vid-2`
+* **Klas:** `vid-2`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Zeeotters zijn te gek maar koi vissen zijn beter!`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
 
 `Beschrijf in het algemeen je concept van je project.`
+Mijn concept is het maken van een abstracte textuur schilderij waarbij het lijkt alsof de gebruiker deze zelf heeft geschilderd. Door middel van user-input kan de gebruiker een kleur kiezen waardoor het textuur en het kleurpalet verandert en random op het canvas wordt gezet. De gebruiker kan elk moment veranderen van textuur waardoor geen enkel schilderij hetzelfde is en achteraf bij tevredenheid met een input het schilderij downloaden om deze te delen met vrienden en familie (of niet).
 
 ## Features
 
@@ -19,6 +20,7 @@
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+Dit idee kwam tot stand omdat ik schilderen erg rustgevend en leuk vind om te doen. Tegenwoordig wordt er heel veel digitaal getekend op Ipads maar vind ik het nog steeds heel leuk om echte schilderijen te maken. Ik wordt enthousiast van het mixen van verf op een pallet. Terwijl ik bij de tandarts zat zag ik op de muur abstracte kunst hangen. Van die kunst met een textuurtje zie: https://nl.pinterest.com/pin/320670435974386868/ en toen wist ik het meteen. Dit word 'm.
 
 ## Voortang
 
