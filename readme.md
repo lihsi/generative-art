@@ -28,9 +28,30 @@ Dit idee kwam tot stand omdat ik schilderen erg rustgevend en leuk vind om te do
 
 ### Week-1
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+In deze week ben ik gaan nadenken over een concept en heb me verdiept in p5. Allereerst ben ik een kijkje gaan nemen op https://showcase.p5js.org/#/2020-All. Hier vond ik een aantal toffe projecten, maar nog niet iets wat ik zelf zou willen. Vervolgens ben ik langs pinterest gegaan en heb een lijstje voor mezelf opgesteld van wat ik nou leuk of interessant vind.
+
+Marine leven,
+Schilderen,
+kosmologie.
+
+Ik had al een aantal ideeen bijvoorbeeld een aquarium maken waarbij vissen heen en weer zwemmen, iets met abstracte schilderijen of een sterrenhemel. Uiteindelijk ben ik voor het abstracte schilderij gegaan omdat deze mij het meest leuk en uniek leek, niet alleen voor mezelf maar ook voor de gebruiker. Zoals Bob Ross altijd zegt there are no mistakes just happy accidents.
+
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Ik heb bedacht wat ik ongeveer wilde en hoe ik dat hele textuur gedoe precies voor mij zag. 
+
+Textuur:
+Er moeten meerdere shapes te voorschijn komen bij user input.
+De shapes moeten bij user input random op het scherm te voorschijn komen.
+De user moet van kleur kunnen veranderen.
+De mainshape moet een vierkant zijn want het moet lijken alsof de shape verf is die je met een paletmes hebt aangebracht.
+
+Ik heb een eerste versie gemaakt waarbij de user input nog minimaal is en gelimiteerd is tot het toetsenbord.
+Voor nu heb ik gebruik gemaakt van elipses en rectangles en is de kleur nog vooral blauw(mijn favoriete kleur) maar ik wil ook triangles en meerdere kleuren toe gaan voegen, kijken hoe dat is. Eventueel met timing spelen de shapes komen nu wel heel snel achter elkaar.
+Verder wil ik de user input ook veranderen naar iets minder standaard. Bijvoorbeeld iets met camera of het scherm draaien.
+
+
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
