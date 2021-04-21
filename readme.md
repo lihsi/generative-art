@@ -3,7 +3,7 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
+* **Naam:** `Lizzy Pham`
 * **Klas:** `vid-1/vid-2`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Zeeotters zijn te gek!`
