@@ -62,5 +62,5 @@ Ik heb geprobeert de user-input die nu nog keyboard is te veranderen naar een mo
 ## Bronnenlijst
 
 *  https://www.geeksforgeeks.org/p5-js-touch-touchended/
-* `Link naar bron 2`
-* `Link naar bron 3`
+*  https://editor.p5js.org/lihsi/full/uVWMFcm2J
+*  https://p5js.org/
