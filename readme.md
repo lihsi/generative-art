@@ -14,6 +14,8 @@
 `Beschrijf in het algemeen je concept van je project.`
 Mijn concept is het maken van een abstracte textuur schilderij waarbij het lijkt alsof de gebruiker deze zelf heeft geschilderd. Door middel van user-input kan de gebruiker een kleur kiezen waardoor het kleurpalet verandert en random op het canvas wordt gezet. De gebruiker kan elk moment veranderen waardoor geen enkel schilderij hetzelfde is en achteraf bij tevredenheid met een input het schilderij downloaden om deze te delen met vrienden en familie (of niet).
 
+https://lihsi.github.io/generative-art/
+
 ## Features
 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
@@ -64,3 +66,4 @@ Ik heb geprobeert de user-input die nu nog keyboard is te veranderen naar een mo
 *  https://www.geeksforgeeks.org/p5-js-touch-touchended/
 *  https://editor.p5js.org/lihsi/full/uVWMFcm2J
 *  https://p5js.org/
+*  https://www.youtube.com/watch?v=AbB9ayaffTc
